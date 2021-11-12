@@ -13,11 +13,20 @@ import random
 
 from numpy.random import *
 
+def f(x): return x**2
 
 def xsample(n, a=0, b=1):
     return np.linspace(a, b, n)
 
+def ysample(x, f, e=1):
+    yarray = []
+    e_array = np.random.normal(0,e,len(x))
+    for index in range(len(x)):
+        yarray.append(f(x[index]) + e_array[index])
+    return yarray
+
+
 
 xsample(5, a=0, b=1)
-
-
+print(ysample([1,2,3,4,5], f, e=1))
+# print(np.random.normal(2,3,5))
