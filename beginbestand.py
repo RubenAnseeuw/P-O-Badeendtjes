@@ -32,7 +32,7 @@ y = ysample(x, f, e=.3)
 
 def OLSVoorschriftBeter(x,y):
     x_streep = statistics.mean(x)
-    y_streep = statistics.mean(y)
+    y_streep = sum(y)/len(y)
     somteller = somnoemer = 0
     for index in range(len(x)):
         somteller += (x[index] - x_streep)*(y[index]+y_streep)
@@ -67,7 +67,7 @@ def simulatie1():
     x = xsample(20,0,1)
     y = ysample(x, f, e=1)
     plt.figure()
-    plt.plot(x, 10**x)
+    plt.plot(x, 10**x, lw = 3)
     plt.plot(x,y, 'o')
     tuple = OLSVoorschriftBeter(x,y)
     plt.plot(x, tuple[0]+tuple[1]*x)
@@ -79,5 +79,26 @@ def simulatie1():
     plt.plot(xx, yy5)
     plt.plot(xx, yy20)
     plt.show()
-    plt.savefig('Verschil tussen OLS en KNN.jpeg')
-simulatie1()
+    plt.savefig('Verschil tussen OLS en KNN.pdf')
+
+
+
+def simulatie2():
+    plt.figure()
+    plt.subplot(2,1,1)
+    yalgemeen = []
+    xx = np.linspace(0,1,100)
+    plt.plot(xx, 10 ** xx)
+    for time in range(100):
+        x = xsample(20, 0, 1)
+        y = ysample(x, f, e=0.5)
+        yalgemeen+= y
+        plt.plot(x, y, 'o')
+        tuple = OLSVoorschriftBeter(x, y)
+        plt.plot(x, tuple[0] + tuple[1] * x)
+    tuple = OLSVoorschriftBeter(x, yalgemeen)
+    plt.subplot(2,1,2)
+    plt.plot(x, tuple[0] + tuple[1] * x, )
+    plt.show()
+    plt.savefig("verschilVariantieVertekening")
+simulatie2()
