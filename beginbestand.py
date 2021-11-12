@@ -13,7 +13,7 @@ import random
 import statistics
 from numpy.random import *
 
-def f(x): return 9*x-3
+def f(x): return 10**x
 
 def xsample(n, a=0, b=1):
     return np.linspace(a, b, n)
@@ -39,7 +39,7 @@ def OLSVoorschriftBeter(x,y):
         somnoemer += (x[index]-x_streep)**2
     b = somteller/somnoemer
     a = y_streep -b *x_streep
-    return a, b
+    return (a,b)
 
 
 
@@ -62,3 +62,22 @@ def Knn_uiteindelijk(x0, x, y , k):
     y_hoedje = 1/k * sum([y[index] for index in lijst])
     return y_hoedje
 
+def simulatie1():
+    def f(x): return 10**x
+    x = xsample(20,0,1)
+    y = ysample(x, f, e=1)
+    plt.figure()
+    plt.plot(x, 10**x)
+    plt.plot(x,y, 'o')
+    tuple = OLSVoorschriftBeter(x,y)
+    plt.plot(x, tuple[0]+tuple[1]*x)
+    xx = np.linspace(0,1,100)
+    yy1 = [Knn_uiteindelijk(a, x, y, 1) for a in xx]
+    yy5 = [Knn_uiteindelijk(a, x, y, 5) for a in xx]
+    yy20 = [Knn_uiteindelijk(a, x, y, 20) for a in xx]
+    plt.plot(xx, yy1)
+    plt.plot(xx, yy5)
+    plt.plot(xx, yy20)
+    plt.show()
+    plt.savefig('Verschil tussen OLS en KNN.jpeg')
+simulatie1()
