@@ -4,7 +4,7 @@ Created on Fri Nov 12 13:55:58 2021
 
 @author: ansee
 """
-
+from math import *
 import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
@@ -41,4 +41,24 @@ def OLSVoorschriftBeter(x,y):
     a = y_streep -b *x_streep
     return a, b
 
-print(OLSVoorschriftBeter(x,y))
+
+
+def Knn_stap1(x0, x):
+    lijst = []
+    for index in range(len(x)):
+        lijst.append((abs(x0-x[index]), index))
+    return lijst
+
+
+def Knn_stap2(x0,x,k):
+    lijst = Knn_stap1(x0,x)
+    gesorteerd = sorted(lijst)
+    slice = [gesorteerd[a][1] for a in range(k)]
+    return slice
+
+
+def Knn_uiteindelijk(x0, x, y , k):
+    lijst = Knn_stap2(x0, x, k)
+    y_hoedje = 1/k * sum([y[index] for index in lijst])
+    return y_hoedje
+
