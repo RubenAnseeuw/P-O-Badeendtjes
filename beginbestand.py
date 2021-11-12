@@ -9,7 +9,15 @@ import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
 sp.init_printing(pretty_print=False)
+import random
 
-np.random
+from numpy.random import *
 
-np.xsample(5, a=0, b=1)
+
+def xsample(n, a=0, b=1):
+    return np.linspace(a, b, n)
+
+
+xsample(5, a=0, b=1)
+
+
