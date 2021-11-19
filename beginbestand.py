@@ -150,13 +150,13 @@ def simulatie4():
     ax = fig.add_subplot(1, 1, 1, projection='3d')
     steekproef = genereerSteekproef(20)
     print(steekproef[1], steekproef[2], steekproef[3])
-    ax.scatter(steekproef[1], steekproef[2], steekproef[3])
+    ax.scatter(steekproef[1], steekproef[2], steekproef[3][0])
     xx = steekproef[1]
     zz= [1+2*x for x in xx]
     ax.plot(xx,xx,zz)
-    # tuple = mls(steekproef[3], [steekproef[1],steekproef[2]])
-    # z = steekproef[1]*tuple[0] + tuple[1]
-    # ax.plot_surface(xx,xx,z)
+    tuple = mls(steekproef[3], [steekproef[1], steekproef[2]])
+    z = steekproef[1]*tuple[0] + tuple[1]
+    ax.plot_surface(xx,xx,z)
     yy1 = [Knn_uiteindelijk(a, steekproef[1], steekproef[3], 1) for a in xx]
     ax.plot(xx,xx,yy1)
     yy20 = [Knn_uiteindelijk(a, steekproef[1], steekproef[3], 20) for a in xx]
@@ -180,14 +180,30 @@ def bepaalK_opt(Aantalpunten,x,y,f):
     return minparam
 
 def genereerSteekproef(n):
-    x1 = list(xsample(n))
-    x2 = list(xsample(n))
+    x1 = xsample(n)
+    x2 = xsample(n)
     e_array = np.random.normal(0, .1, n)
-    y = [1+ x1[index] + x2[index] + e_array[index] for index in range(n)]
+    y = [[1+ x1[index1] + x2[index2] + e_array[index1] for index1 in range(n)]for index2 in range(n)]
     steekproef = [[x1[index], x2[index], y[index]] for index in range(n)]
     return steekproef, x1, x2, y
 
-simulatie4()
+def simulatie5():
+    def f(x): return 10**x
+    basisx = xsample(20)
+    basisy = ysample(basisx, f, e=.2)
+    xx = np.linspace(0,1,100)
+    plt.figure()
+    plt.scatter(basisx, basisy)
+    yy = [f(x) for x in xx]
+    plt.plot(xx, yy)
 
-# steekproef = genereerSteekproef(20)
-# print(np.dot(np.transpose(steekproef[1]), steekproef[1]))
+
+
+
+    plt.show()
+
+Y = [[1,2],[3,4]]
+X = [[2,3],[4,5]]
+print(mls(Y,X))
+print(genereerSteekproef(20))
+simulatie4()
