@@ -375,19 +375,57 @@ def genereerSteekproef(n):
 
 
 def simulatie5():
+    #voorbereiding
     def f(x): return 10**x
-    basisx = xsample(20)
+    basisx = xsample(20,0,1)
     basisy = ysample(basisx, f, e=.2)
+    #steekproef en populatiefunctie
     xx = np.linspace(0,1,100)
     plt.figure()
     plt.scatter(basisx, basisy)
     yy = [f(x) for x in xx]
     plt.plot(xx, yy)
+    #polynomale regressie
+    opt_parameter, betalijst = optimale_exponent(basisx, basisy, f)
+    beta1 = betalijst[0]
+    beta19 = betalijst[18]
+    betaopt = betalijst[opt_parameter-1]
+    yy1 = [sum([beta1[i] * (x1 ** i) for i in range(len(beta1))]) for x1 in xx]
+    yy19 = [sum([beta19[i] * (x1 ** i) for i in range(len(beta19))]) for x1 in xx]
+    yyopt = [sum([betaopt[i] * (x1 ** i) for i in range(len(betaopt))]) for x1 in xx]
+    plt.plot(xx, yy1, label="p=1")
+    plt.plot(xx,yy19,label="p=19")
+    plt.plot(xx,yyopt,label= "optimaal")
 
 
-
-
+    plt.legend()
     plt.show()
+
+def optimale_exponent(x,y,f):
+    xx = np.linspace(0, 1, 1000)
+    minimum = 10000
+    minparam = 500
+    betalijst = []
+    ylijst = []
+    for p in range(1,20):
+        X = []
+        #X = np.array([[1, x1, x1**2] for x1 in x])
+        for x1 in x:
+            rij = []
+            for power in range(p+1):
+                rij.append(x1**power)
+            X.append(rij)
+
+        beta = mls(y, X)
+        betalijst.append(beta)
+        yy = [sum([beta[i] * (x1 ** i) for i in range(len(beta))]) for x1 in xx]
+        mse = MSE(xx, yy, f)
+        if mse < minimum:
+            minimum = mse
+            minparam = p
+
+    return minparam, betalijst
+
 
 
 def allepunten(lijst1, lijst2):
@@ -404,7 +442,36 @@ def allepunten(lijst1, lijst2):
     return allepunten
 
 
+def simulatie6():
+    def f(x): return 10**x
+    plt.figure()
+    x = xsample(20)
+    y = ysample(x, f)
 
 
-simulatie4()
+    xx = np.linspace(0,1,100)
+    plt.plot(xx, f(xx), label="populatiefunctie")
+
+    Knn_param = bepaalK_opt(20,x,y,f)
+    yy_KNN = [Knn_uiteindelijk(a, x, y, Knn_param) for a in xx]
+    plt.plot(xx, yy_KNN, label = "KNN")
+
+
+    Polynom_param, betalijst = optimale_exponent(x,y,f)
+    betaopt = betalijst[Polynom_param - 1]
+    yy_pol_opt = [sum([betaopt[i] * (x1 ** i) for i in range(len(betaopt))]) for x1 in xx]
+    plt.plot(xx,yy_pol_opt, label = "Polynom")
+
+    mse_knn= MSE(xx,yy_KNN,f)
+    mse_pol = MSE(xx,yy_pol_opt,f)
+    if mse_pol< mse_knn:
+        print("Polynomiale regressie is beter")
+    else:
+        print("KNN-regressie is beter")
+    plt.legend()
+    plt.show()
+
+
+simulatie6()
+
 
