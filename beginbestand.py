@@ -4,6 +4,7 @@ Created on Fri Nov 12 13:55:58 2021
 
 @author: ansee
 """
+import warnings
 from math import *
 import sympy as sp
 import numpy as np
@@ -472,6 +473,84 @@ def simulatie6():
     plt.show()
 
 
-simulatie6()
+
+def simulatie7():
+    k=10
+    warnings.filterwarnings("ignore")
+    def f(x): return np.sin(x) * np.cos(x)
+    plt.figure()
+    plt.subplot(4,1,3)
+    Knnlijst = []
+    Polylijst = []
+    xx = np.linspace(0, 10, 1000)
+    # plt.scatter(xx, f(xx))
+    plt.plot(xx, f(xx), label="populatiefunctie")
+    for grootte in range(k):
+        x = xsample(20*2**grootte,0,10)
+        y = ysample(x, f)
+
+        plt.subplot(4,1,1)
+        try: Knn_param = bepaalK_opt(40, x, y, f)
+        except: Knn_param = bepaalK_opt(20*2**grootte, x, y, f)
+        Knnlijst.append(Knn_param)
+        yy_KNN = [Knn_uiteindelijk(a, x, y, Knn_param) for a in xx]
+        plt.plot(xx, yy_KNN, label=str("KNN"+str(grootte)))
+        plt.legend()
 
 
+        plt.subplot(4,1, 2)
+        Polynom_param, betalijst = optimale_exponent(x, y, f)
+        Polylijst.append(Polynom_param)
+        betaopt = betalijst[Polynom_param - 1]
+        yy_pol_opt = [sum([betaopt[i] * (x1 ** i) for i in range(len(betaopt))]) for x1 in xx]
+        plt.plot(xx, yy_pol_opt, label=str("Polynom"+str(grootte)))
+        plt.legend()
+
+        mse_knn = MSE(xx, yy_KNN, f)
+        mse_pol = MSE(xx, yy_pol_opt, f)
+        if mse_pol < mse_knn:
+            print("Polynomiale regressie is beter bij",grootte)
+        else:
+            print("KNN-regressie is beter bij", grootte)
+
+    plt.subplot(4,1,4)
+    plt.plot(range(k),Knnlijst, label = "knn")
+    plt.plot(range(k),Polylijst,label = "pol")
+    plt.legend()
+    plt.show()
+
+def simulatie8():
+    def f(x): return 10**x
+    plt.figure()
+    x = xsample(20)
+    y = ysample(x, f)
+    z= [np.log10(yy) for yy in y]
+    a,b = OLSVoorschriftBeter(x,z)
+
+    xx = np.linspace(0,1,20)
+    yy = [b*x1+a for x1 in xx]
+    plt.plot(xx,np.log10(f(x)),label = "popul")
+    plt.plot(xx, yy, label = "regressie")
+
+
+    def g(x): return np.log10(f(x))
+    print(MSE(x,z,g))
+
+    Polynom_param, betalijst = optimale_exponent(x, y, f)
+
+    betaopt = betalijst[Polynom_param - 1]
+    yy_pol_opt = [sum([betaopt[i] * (x1 ** i) for i in range(len(betaopt))]) for x1 in xx]
+    plt.plot(xx,yy_pol_opt)
+    print(MSE(xx,yy_pol_opt,f))
+    plt.plot(xx,f(xx))
+    plt.legend()
+    plt.show()
+
+
+def simulatie9():
+
+
+
+
+
+simulatie9()
