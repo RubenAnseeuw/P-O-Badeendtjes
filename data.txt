@@ -1,0 +1,4667 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<cijferrecords>
+<record>
+<dimensie name="aantal"> 29550072,7 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 70546478,71 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54830520,45 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7669447044 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11937786944 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7005599115 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 454801607,5 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 533921103,5 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 408208910,5 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 78062244,16 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 151013556 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 73028919,23 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 866288,7762 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 34997667,17 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 101110931,1 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 477710132,9 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 676391921,8 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 151313410,5 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 708046693 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 288524075 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 38514714,65 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 206946763,2 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 85427376,56 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11530881,98 </dimensie>
+<dimensie name="jaar"> 1985 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 31592903,65 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 74142132,84 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54563479,66 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 8217128398 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12825314756 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7295379299 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 492023338,6 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 589966316 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 426988669,1 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 80262494,43 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 153618232,1 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 75090208,37 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 929203,0484 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 37248865,3 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 116192733,7 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 505073479,2 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 715818289,7 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 157409750,7 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 773447968,5 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 327387003,8 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 40382863,09 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 224020530,5 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 93077713,53 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11972562,08 </dimensie>
+<dimensie name="jaar"> 1986 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 34284060,23 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 76863755,79 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 53579989,48 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 8936179642 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 13599160878 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7513779790 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 540249345,2 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 642931980,2 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 441727127,6 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 83608144,26 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 153727511,6 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 76347690,4 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1011660,794 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 39123777,5 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 130922712,7 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 541912965,2 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 747471720 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 161954245,8 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 857303837,9 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 365637489,7 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 41875704,72 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 246125830,4 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 100073842,4 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12294558,49 </dimensie>
+<dimensie name="jaar"> 1987 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 38565649,48 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 79923303,36 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 52244604,93 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10073804342 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14470907946 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7703638376 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 614868387,8 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 702661833,4 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 454898518,3 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 90096461,37 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 153817187,3 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 77259003,25 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1141746,202 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 41234529,1 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 145793261,3 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 602588273,1 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 783087588,4 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 165874024 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 984718040,7 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 408794632,9 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 43225572,73 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 280286006,4 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 107960103,4 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12567787,67 </dimensie>
+<dimensie name="jaar"> 1988 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 43201847,41 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 81432790,07 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 48878059,18 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11309217073 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15097667263 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7599298727 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 696847224,5 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 752448774,6 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 450724432,4 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 96469867,85 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 150272880,6 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 75206219,77 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1283223,19 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 42605299,96 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 155250666,5 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 667133478,6 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 804148802 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 163456846,4 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1126042608 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 447110791,5 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 42928578,73 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 317840126,2 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 114173808,8 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12360558,51 </dimensie>
+<dimensie name="jaar"> 1989 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 41065937,23 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 81830946,85 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 53823090,07 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10773417467 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15544815746 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 8850708799 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 670109068,5 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 794697455,2 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 527266937,9 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 87435091,52 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 144195501 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 86415961,27 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1223819,321 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 43438894,69 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 194161813,8 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 626595492,6 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 814704580,9 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 190174918,2 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1092326734 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 481612973,5 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 50334556,45 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 305818850,4 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 119141532,7 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14352824,02 </dimensie>
+<dimensie name="jaar"> 1990 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 50520558,05 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 125320956,9 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 72514538,63 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11113113158 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16135440015 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9037811029 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 744050540,3 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 905128823,8 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 575480769,7 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 92724394,78 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 150449106,7 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 84276964,49 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1014921,925 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 44131336,65 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 178988997,8 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 642050886,8 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 808472543,3 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 194243393,8 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1134710905 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 514790349 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 52338710,93 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 317952485,3 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 127578314,2 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14784715,85 </dimensie>
+<dimensie name="jaar"> 1991 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 60059698,19 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 167837828,6 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 91457940,98 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11358638388 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16299873385 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9165822597 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 815004891,9 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 996296356,5 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 621465227,3 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 97387061,24 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 152773695,6 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 81422914,74 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 781876,4952 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 43602678,16 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 161848559,8 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 651795413,1 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 778733896,1 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 197043869,2 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1167978692 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 535231472,6 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54039551,22 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 327548334,7 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132871614,3 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15125256,94 </dimensie>
+<dimensie name="jaar"> 1992 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 70454023,09 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 206866719,8 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 108747220,6 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11671265141 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16092508495 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9103692936 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 894012510,3 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1065414821 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 655071064,2 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 102780338,4 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 151620065,9 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 76824849,71 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 538273,5211 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 42071372,14 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 141083630 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 665126647,5 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 730918960,4 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 195757418,2 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1208633383 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 543589442,3 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54632384,36 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 339231934,6 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 135167086,5 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15153810,29 </dimensie>
+<dimensie name="jaar"> 1993 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 83330103,07 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 255677606,6 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 128434913,6 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12267025104 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16558166937 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9223116506 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 999708529,9 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1181337304 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 702225885,7 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 110906744,5 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 156829205,5 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 73706995,79 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 284295,272 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 42272763,63 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 122880061,5 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 694185877,6 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 712631658,7 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 198375551,3 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1279360312 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 575097987,6 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 56327041,89 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 359380812,2 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 143224990,2 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15486254,33 </dimensie>
+<dimensie name="jaar"> 1994 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 95687922,48 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 300015823,1 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 146027786,2 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12661937112 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16615529783 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9173715379 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1094512538 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1271770045 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 737067639,5 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 117479863,7 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 158206363,7 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 69182107,17 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 41388321,47 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 102145964 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 711433149,7 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 675085109,5 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 197363219,2 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1329963813 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 593100587,6 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 57004376,62 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 373903834,1 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 147928594 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15537104,49 </dimensie>
+<dimensie name="jaar"> 1995 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 95147595,6 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 289495072,2 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 156031013,6 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12865186926 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16756405699 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9182254523 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1154906521 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1392746054 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 763930949,6 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 117066968,7 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 157343922,3 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 65337149,64 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 41282051,06 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 94418381,26 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 743798234,1 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 710039749 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 196116047,3 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1391353107 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 584174960,4 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 58810181,91 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 383911630,5 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 144767945 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16012485,71 </dimensie>
+<dimensie name="jaar"> 1996 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 93071973,26 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 286545708,2 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 171483494 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12868872274 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17378262053 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9488684751 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1198610118 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1559927573 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 816605187,3 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 114772407,1 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 160873372,1 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 63458421,74 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 42334913,4 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 89446886,54 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 765224425,5 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 767027593,1 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 201175118,7 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1432304654 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 591229002,6 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 62592704,22 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 388078739,6 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 145513241,1 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17025435,58 </dimensie>
+<dimensie name="jaar"> 1997 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 96092950,22 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 277506088,2 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 183386171,2 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 13597669768 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17684100102 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9572626001 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1312896265 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1706160601 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 851381635,8 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 118781368,3 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 161329027,4 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 59905081,36 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 42587150,42 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 82004566,87 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 831257588,7 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 812035128,4 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 201448755 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1556808560 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 586592314,4 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 64991248,2 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 414397485,3 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 143315210,8 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17661182,5 </dimensie>
+<dimensie name="jaar"> 1998 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 98002285,32 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 270572087,8 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 200711770,6 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14204651591 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18174405548 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 9912913787 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1420593317 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1876846907 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 910315640,3 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 121448572,5 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 163334433,3 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 57753095,34 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 43256010,17 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 76352350 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 892373722 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 867278811,5 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 207042765,8 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1672201983 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 587231657,2 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 69221148,44 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 437487670,7 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 142345471,7 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18793796,88 </dimensie>
+<dimensie name="jaar"> 1999 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 97226370,34 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 246227613 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 218620062,8 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14447539579 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17495225301 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10243214992 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1495451140 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1926759571 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 970414836,4 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 120810995,7 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 154829651,6 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 55231956,77 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 41141444,4 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 70000958,25 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 932364247,7 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 866714247,6 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 212314375,3 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1748074621 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 550084151,6 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 73520735,45 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 449698429,1 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132216189,7 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 19944141,68 </dimensie>
+<dimensie name="jaar"> 2000 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 101710773,4 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 254775695,4 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 221974142,8 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14426406930 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17533571389 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10366794323 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1547085829 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2022495841 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1030807773 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 120838310,1 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 164096205,2 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 55722327,9 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 40117302,78 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 87863354,32 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 887429804,6 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 830187341,6 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 223121070,4 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1824193671 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 578251764 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 94898653,06 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 451234385,5 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132778344,8 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 20341871,36 </dimensie>
+<dimensie name="jaar"> 2001 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 107626091,1 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 264366487,8 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 222988528 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14594882372 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17634315429 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10380126354 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1620148939 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2126984051 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1081660113 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 122457968,2 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 174098367,1 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 55614972,44 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 39217002,88 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 105288302,5 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 853272626,4 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 795962210 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 231795723,2 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1925888797 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 608935187,3 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 115865723,6 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 458745598,7 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 133817653,6 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 20527860,18 </dimensie>
+<dimensie name="jaar"> 2002 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 112501848,2 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 270199717,2 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 221356427,3 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14607954545 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17481167174 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10270040025 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1677199036 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2201405092 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1119979077 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 122778412,2 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 181648198,6 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54845178,66 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 37745296,72 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 121575836,6 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 809027783,8 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 750043497,2 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 237769806,4 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2008887134 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 631015304 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 135592973,1 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 461422643,7 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132931961,6 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 20470832,03 </dimensie>
+<dimensie name="jaar"> 2003 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 119489690,7 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 278509718,9 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 222492622,3 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14876900678 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17487886165 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10288142994 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1765273102 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2296024115 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1172641231 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 125255691,3 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 190865650,2 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54758640,41 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 36617973,34 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 139508015,4 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 777621414,3 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 710956352,5 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 246773306,4 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2129479415 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 658885537,4 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 157165776,9 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 472249090,9 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 133262143,4 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 20670492,02 </dimensie>
+<dimensie name="jaar"> 2004 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 125003026,8 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 284789372,2 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 222036479 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 14942260340 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17365847206 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10232181076 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1831059067 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2373969423 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1217500027 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 126025964,9 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 198700371,1 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54275583,77 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 35218227,71 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 156659071,3 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 734060327,8 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 666537568,8 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 254108414,9 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2223662682 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 681972718 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 177875890,4 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 476689120,3 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132611845,1 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 20723404,71 </dimensie>
+<dimensie name="jaar"> 2005 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 134507185,3 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 292265175,8 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 222491513,1 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15455281536 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17317095537 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10217875247 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1954561978 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2461868022 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1267807818 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 130582743,5 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 207367274 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54011707,71 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 33967905,38 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 174620034,1 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 731450622,6 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 624959135,8 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 262561420,4 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2367366846 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 707918710,6 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 199517416 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 495527031 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132521000,3 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 20862273,35 </dimensie>
+<dimensie name="jaar"> 2006 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 144130717,8 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 302483453,9 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 224077555,3 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 15936450376 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17424631915 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10254845713 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2078667191 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2573182268 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1325461721 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 135576753,3 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 218022460,6 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54015321,97 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 33009569,21 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 193801204,9 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 725280517,7 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 588518336,1 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 272498663,6 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2511344416 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 740606417,4 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 222574278,8 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 513550567 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 133629730,1 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 21109010,1 </dimensie>
+<dimensie name="jaar"> 2007 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 143660459,5 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 294608672,6 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 221852600,1 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16090096356 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17190712019 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10284463574 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2037213069 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2464252720 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1290339956 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 137107177 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 215446477,8 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54259700,48 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 32150206,04 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 191876875,6 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 692342205,5 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 548956581,4 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 258383416,1 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2294887226 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 661310995,8 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 202029835 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 469286740,7 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 119322230,8 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 19160569 </dimensie>
+<dimensie name="jaar"> 2008 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 143328586,6 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 294755743,5 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 221193733,6 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16371887166 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17541032175 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10457658887 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2014569664 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2443724613 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1275154216 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 133770081,4 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 210794552,3 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 52904050,44 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 32166255,67 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 191307032,1 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 666112264,2 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 529646127 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 248429970,4 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2118271671 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 612135033,7 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 186358217,7 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 433170221,8 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 110449271,6 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17674268,2 </dimensie>
+<dimensie name="jaar"> 2009 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 142082883,5 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 294411068,7 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 221449103,1 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16339566591 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17639239137 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10540675015 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2047005218 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2501910881 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1308553650 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132874082,7 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 210971399,6 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 53071623,58 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 32128641,82 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 191527897,3 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 699277742,3 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 560235969,9 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 263389480,1 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2168482113 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 631399647 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 192670354,4 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 443437869,9 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 113925240,8 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18272913,11 </dimensie>
+<dimensie name="jaar"> 2010 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 141360797,1 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 289966230,6 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 236094253,7 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16481049859 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17753489051 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10926306244 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2124309383 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2492343085 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1411060791 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 132048220,2 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 207549610,6 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 56516975,77 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 31643583,26 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 204194261,1 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 701121802 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 536485183,8 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 273025600,1 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2187258861 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 607161757,1 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 200554851,7 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 447277570,2 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 109551929,1 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 19020681,15 </dimensie>
+<dimensie name="jaar"> 2011 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 139469616,9 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 300887099,5 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 241313830,4 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 16425338728 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18407701868 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10929612602 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2178219821 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2635468380 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1469725945 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 128972892,8 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 213203011,1 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 57186165,59 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 32835361,43 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 208708592,1 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 694580137,4 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 544814278,1 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 273108219,1 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2179865239 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 600054018,6 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 195235938,2 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 445765631,4 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 108269459,6 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18516233,83 </dimensie>
+<dimensie name="jaar"> 2012 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 145234564,1 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 303589868 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 173803634,9 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17255064645 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18736788571 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 7941330838 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2269738058 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2660879284 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1059245577 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 99510029,19 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 213059328,8 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 54695913,03 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 48040711 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 139297283 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 674924206,8 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 801340099,9 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 162816096,7 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2110903292 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 879558621,4 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 115992091,2 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 431663445,1 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 158701272,9 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11000724,07 </dimensie>
+<dimensie name="jaar"> 2013 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 148707544,5 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 307330020,5 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 175551707,8 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 17650015691 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18948653581 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 8013181529 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2382114442 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2761002179 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1096646681 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 102867097,6 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 214781952,4 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 55290017,96 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 49852795,13 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 143819959,8 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 689346993 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 815775889,7 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 164940944,9 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2189046114 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 909122637,9 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 119306254,1 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 447643049,6 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 164035592,8 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11315040,25 </dimensie>
+<dimensie name="jaar"> 2014 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 149511879 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 306877833,5 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 175004277,8 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18019088841 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 19212501925 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 8111358949 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2463270791 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2835529185 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1124390512 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 105505034,9 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 218657765,5 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 56037199,62 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 50685382,81 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 145980054,8 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 694349144,1 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 814776770,8 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 164094140,7 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2255705864 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 928918868,6 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 121427022,4 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 461274454,3 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 167607483,3 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 11516174,53 </dimensie>
+<dimensie name="jaar"> 2015 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 0 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 194900000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 156500000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 693900000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 849500000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 175100000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen uit 1 stuk </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2271200000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 975800000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 130600000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> trekker met oplegger </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 464500000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 176100000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 12400000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> vrachtwagen met aanhangwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 148900000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 303100000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 174100000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> motor </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 18306200000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 19352400000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 8232600000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> personenwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2517300000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 2934600000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 1172500000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bestelwagen </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 106100000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 50400000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> bus </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 53500000 </dimensie>
+<dimensie name="jaar"> 2016 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> speciaal voertuig </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 24800000000 </dimensie>
+<dimensie name="jaar"> 2017 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> alle (uitgenomen motoren) </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 25100000000 </dimensie>
+<dimensie name="jaar"> 2017 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> alle (uitgenomen motoren) </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10100000000 </dimensie>
+<dimensie name="jaar"> 2017 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> alle (uitgenomen motoren) </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 25038500000 </dimensie>
+<dimensie name="jaar"> 2018 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> alle </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 25330900000 </dimensie>
+<dimensie name="jaar"> 2018 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> alle </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10300500000 </dimensie>
+<dimensie name="jaar"> 2018 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> alle </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 25159208630 </dimensie>
+<dimensie name="jaar"> 2019 </dimensie>
+<dimensie name="netwerk"> snelwegen </dimensie>
+<dimensie name="voertuigtype"> alle (uitgenomen motoren) </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 25613569334 </dimensie>
+<dimensie name="jaar"> 2019 </dimensie>
+<dimensie name="netwerk"> gewestwegen </dimensie>
+<dimensie name="voertuigtype"> alle (uitgenomen motoren) </dimensie>
+</record>
+<record>
+<dimensie name="aantal"> 10412561791 </dimensie>
+<dimensie name="jaar"> 2019 </dimensie>
+<dimensie name="netwerk"> gemeentewegen </dimensie>
+<dimensie name="voertuigtype"> alle (uitgenomen motoren) </dimensie>
+</record>
+</cijferrecords>
+</rdf:RDF>
