@@ -14,6 +14,7 @@ import random
 import statistics
 from numpy.random import *
 from mpl_toolkits.mplot3d import Axes3D
+import sklearn as skl
 
 def f(x): return 10**x
 
@@ -548,9 +549,9 @@ def simulatie8():
 
 
 def simulatie9():
+    None
 
 
 
 
-
-simulatie9()
+# simulatie9()
