@@ -5,12 +5,10 @@ Created on Fri Nov 12 13:55:58 2021
 @author: ansee
 """
 import warnings
-from math import *
 import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
 sp.init_printing(pretty_print=False)
-import random
 import statistics
 from numpy.random import *
 from mpl_toolkits.mplot3d import Axes3D
@@ -153,17 +151,17 @@ def simulatie2():
     xx = np.linspace(0,1,100)
     plt.plot(xx, 10 ** xx)
     #100 simulaties
-    for time in range(100):
+    for times in range(100):
         x = xsample(20, 0, 1)
         y = ysample(x, f, e=0.5)
         yalgemeen+= y
-        plt.plot(x, y, 'o')
+        plt.scatter(x, y)
         tuple = OLSVoorschriftBeter(x, y)
         plt.plot(x, tuple[0] + tuple[1] * x)
     #uiteindelijke regressierechte
     tuple = OLSVoorschriftBeter(x, yalgemeen)
     plt.subplot(2,1,2)
-    plt.plot(x, tuple[0] + tuple[1] * x, )
+    plt.plot(x, tuple[0] + tuple[1] * x )
     plt.show()
     plt.savefig("verschilVariantieVertekening.jpeg")
 
@@ -194,7 +192,7 @@ def simulatie3():
     yy = [Knn_uiteindelijk(a, x, y, minparam) for a in xx]
     plt.plot(xx,yy, lw = 3)
     plt.plot(xx,10**xx)
-    print(minimum)
+    print(minparam)
     plt.show()
 def MSE(x,y,f):
     """
@@ -248,14 +246,12 @@ def simulatie4():
     lijstMetXCoordinaten = [X[k][1] for k in range(len(X))]
     lijstMetYCoordinaten = [X[k][2] for k in range(len(X))]
     ax.scatter(lijstMetXCoordinaten, lijstMetYCoordinaten, Y)
-
     #lijsten maken met alle x en y coordinaten
     x = y = xsample(dim)
     xx,yy = np.meshgrid(x,y) #rare functie, maakt van 2 lijsten matrices bv: meshgrid([1,2,3],[4,5,6]) =[[1, 2, 3],[1, 2, 3][1, 2, 3]],[[4,4,4],[5,5,5],[6,6,6]]
     #algemene functie plotten
     zz = xx+yy+1
     ax.plot_surface(xx,yy,zz, color='r', alpha = .2)
-
     #meervoudige regressie toepassen
     Y = np.transpose(Y)
     beta = mls(Y,X)
@@ -271,11 +267,9 @@ def simulatie4():
     steekproefpunten = [X[i][1:]for i in range(len(X))]
     zz1 = [Knn_uiteindelijk(a, steekproefpunten, Y, 1) for a in allePunten]
 
-    allePuntenX = [allePunten[k][0] for k in range(len(allePunten))]
-    allePuntenY = [allePunten[k][1] for k in range(len(allePunten))]
 
     zz1 = np.array(vervorm(zz1,dim))
-    ax.plot_surface(xx,yy,zz1,alpha = .2)
+    ax.plot_surface(xx,yy,zz1,alpha = .5)
 
     #Knn 20 buren:
     zz20 = [Knn_uiteindelijk(a, steekproefpunten, Y, 20) for a in allePunten]
@@ -386,7 +380,7 @@ def simulatie5():
     plt.figure()
     plt.scatter(basisx, basisy)
     yy = [f(x) for x in xx]
-    plt.plot(xx, yy)
+    plt.plot(xx, yy, label = "popu")
     #polynomale regressie
     opt_parameter, betalijst = optimale_exponent(basisx, basisy, f)
     beta1 = betalijst[0]
@@ -408,10 +402,8 @@ def optimale_exponent(x,y,f):
     minimum = 10000
     minparam = 500
     betalijst = []
-    ylijst = []
     for p in range(1,20):
         X = []
-        #X = np.array([[1, x1, x1**2] for x1 in x])
         for x1 in x:
             rij = []
             for power in range(p+1):
@@ -476,7 +468,7 @@ def simulatie6():
 
 
 def simulatie7():
-    k=10
+    k=6
     warnings.filterwarnings("ignore")
     def f(x): return np.sin(x) * np.cos(x)
     plt.figure()
@@ -484,7 +476,7 @@ def simulatie7():
     Knnlijst = []
     Polylijst = []
     xx = np.linspace(0, 10, 1000)
-    # plt.scatter(xx, f(xx))
+
     plt.plot(xx, f(xx), label="populatiefunctie")
     for grootte in range(k):
         x = xsample(20*2**grootte,0,10)
@@ -554,4 +546,4 @@ def simulatie9():
 
 
 
-# simulatie9()
+simulatie8()

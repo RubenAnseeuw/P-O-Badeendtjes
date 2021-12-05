@@ -1,0 +1,778 @@
+dimensie/0/_name,dimensie/0/__text,dimensie/1/_name,dimensie/1/__text,dimensie/2/_name,dimensie/2/__text,dimensie/3/_name,dimensie/3/__text
+aantal,"29550072,7",jaar,1985,netwerk,snelwegen,voertuigtype,motor
+aantal,"70546478,71",jaar,1985,netwerk,gewestwegen,voertuigtype,motor
+aantal,"54830520,45",jaar,1985,netwerk,gemeentewegen,voertuigtype,motor
+aantal,7669447044,jaar,1985,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,11937786944,jaar,1985,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,7005599115,jaar,1985,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"454801607,5",jaar,1985,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"533921103,5",jaar,1985,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"408208910,5",jaar,1985,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"78062244,16",jaar,1985,netwerk,snelwegen,voertuigtype,bus
+aantal,151013556,jaar,1985,netwerk,gewestwegen,voertuigtype,bus
+aantal,"73028919,23",jaar,1985,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"866288,7762",jaar,1985,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"34997667,17",jaar,1985,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"101110931,1",jaar,1985,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"477710132,9",jaar,1985,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"676391921,8",jaar,1985,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"151313410,5",jaar,1985,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,708046693,jaar,1985,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,288524075,jaar,1985,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"38514714,65",jaar,1985,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"206946763,2",jaar,1985,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"85427376,56",jaar,1985,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"11530881,98",jaar,1985,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"31592903,65",jaar,1986,netwerk,snelwegen,voertuigtype,motor
+aantal,"74142132,84",jaar,1986,netwerk,gewestwegen,voertuigtype,motor
+aantal,"54563479,66",jaar,1986,netwerk,gemeentewegen,voertuigtype,motor
+aantal,8217128398,jaar,1986,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,12825314756,jaar,1986,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,7295379299,jaar,1986,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"492023338,6",jaar,1986,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,589966316,jaar,1986,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"426988669,1",jaar,1986,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"80262494,43",jaar,1986,netwerk,snelwegen,voertuigtype,bus
+aantal,"153618232,1",jaar,1986,netwerk,gewestwegen,voertuigtype,bus
+aantal,"75090208,37",jaar,1986,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"929203,0484",jaar,1986,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"37248865,3",jaar,1986,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"116192733,7",jaar,1986,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"505073479,2",jaar,1986,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"715818289,7",jaar,1986,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"157409750,7",jaar,1986,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"773447968,5",jaar,1986,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"327387003,8",jaar,1986,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"40382863,09",jaar,1986,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"224020530,5",jaar,1986,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"93077713,53",jaar,1986,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"11972562,08",jaar,1986,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"34284060,23",jaar,1987,netwerk,snelwegen,voertuigtype,motor
+aantal,"76863755,79",jaar,1987,netwerk,gewestwegen,voertuigtype,motor
+aantal,"53579989,48",jaar,1987,netwerk,gemeentewegen,voertuigtype,motor
+aantal,8936179642,jaar,1987,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,13599160878,jaar,1987,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,7513779790,jaar,1987,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"540249345,2",jaar,1987,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"642931980,2",jaar,1987,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"441727127,6",jaar,1987,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"83608144,26",jaar,1987,netwerk,snelwegen,voertuigtype,bus
+aantal,"153727511,6",jaar,1987,netwerk,gewestwegen,voertuigtype,bus
+aantal,"76347690,4",jaar,1987,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"1011660,794",jaar,1987,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"39123777,5",jaar,1987,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"130922712,7",jaar,1987,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"541912965,2",jaar,1987,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,747471720,jaar,1987,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"161954245,8",jaar,1987,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"857303837,9",jaar,1987,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"365637489,7",jaar,1987,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"41875704,72",jaar,1987,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"246125830,4",jaar,1987,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"100073842,4",jaar,1987,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"12294558,49",jaar,1987,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"38565649,48",jaar,1988,netwerk,snelwegen,voertuigtype,motor
+aantal,"79923303,36",jaar,1988,netwerk,gewestwegen,voertuigtype,motor
+aantal,"52244604,93",jaar,1988,netwerk,gemeentewegen,voertuigtype,motor
+aantal,10073804342,jaar,1988,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,14470907946,jaar,1988,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,7703638376,jaar,1988,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"614868387,8",jaar,1988,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"702661833,4",jaar,1988,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"454898518,3",jaar,1988,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"90096461,37",jaar,1988,netwerk,snelwegen,voertuigtype,bus
+aantal,"153817187,3",jaar,1988,netwerk,gewestwegen,voertuigtype,bus
+aantal,"77259003,25",jaar,1988,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"1141746,202",jaar,1988,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"41234529,1",jaar,1988,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"145793261,3",jaar,1988,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"602588273,1",jaar,1988,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"783087588,4",jaar,1988,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,165874024,jaar,1988,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"984718040,7",jaar,1988,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"408794632,9",jaar,1988,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"43225572,73",jaar,1988,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"280286006,4",jaar,1988,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"107960103,4",jaar,1988,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"12567787,67",jaar,1988,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"43201847,41",jaar,1989,netwerk,snelwegen,voertuigtype,motor
+aantal,"81432790,07",jaar,1989,netwerk,gewestwegen,voertuigtype,motor
+aantal,"48878059,18",jaar,1989,netwerk,gemeentewegen,voertuigtype,motor
+aantal,11309217073,jaar,1989,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,15097667263,jaar,1989,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,7599298727,jaar,1989,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"696847224,5",jaar,1989,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"752448774,6",jaar,1989,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"450724432,4",jaar,1989,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"96469867,85",jaar,1989,netwerk,snelwegen,voertuigtype,bus
+aantal,"150272880,6",jaar,1989,netwerk,gewestwegen,voertuigtype,bus
+aantal,"75206219,77",jaar,1989,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"1283223,19",jaar,1989,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"42605299,96",jaar,1989,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"155250666,5",jaar,1989,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"667133478,6",jaar,1989,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,804148802,jaar,1989,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"163456846,4",jaar,1989,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1126042608,jaar,1989,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"447110791,5",jaar,1989,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"42928578,73",jaar,1989,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"317840126,2",jaar,1989,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"114173808,8",jaar,1989,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"12360558,51",jaar,1989,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"41065937,23",jaar,1990,netwerk,snelwegen,voertuigtype,motor
+aantal,"81830946,85",jaar,1990,netwerk,gewestwegen,voertuigtype,motor
+aantal,"53823090,07",jaar,1990,netwerk,gemeentewegen,voertuigtype,motor
+aantal,10773417467,jaar,1990,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,15544815746,jaar,1990,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,8850708799,jaar,1990,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"670109068,5",jaar,1990,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"794697455,2",jaar,1990,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"527266937,9",jaar,1990,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"87435091,52",jaar,1990,netwerk,snelwegen,voertuigtype,bus
+aantal,144195501,jaar,1990,netwerk,gewestwegen,voertuigtype,bus
+aantal,"86415961,27",jaar,1990,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"1223819,321",jaar,1990,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"43438894,69",jaar,1990,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"194161813,8",jaar,1990,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"626595492,6",jaar,1990,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"814704580,9",jaar,1990,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"190174918,2",jaar,1990,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1092326734,jaar,1990,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"481612973,5",jaar,1990,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"50334556,45",jaar,1990,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"305818850,4",jaar,1990,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"119141532,7",jaar,1990,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"14352824,02",jaar,1990,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"50520558,05",jaar,1991,netwerk,snelwegen,voertuigtype,motor
+aantal,"125320956,9",jaar,1991,netwerk,gewestwegen,voertuigtype,motor
+aantal,"72514538,63",jaar,1991,netwerk,gemeentewegen,voertuigtype,motor
+aantal,11113113158,jaar,1991,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,16135440015,jaar,1991,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9037811029,jaar,1991,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"744050540,3",jaar,1991,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"905128823,8",jaar,1991,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"575480769,7",jaar,1991,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"92724394,78",jaar,1991,netwerk,snelwegen,voertuigtype,bus
+aantal,"150449106,7",jaar,1991,netwerk,gewestwegen,voertuigtype,bus
+aantal,"84276964,49",jaar,1991,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"1014921,925",jaar,1991,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"44131336,65",jaar,1991,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"178988997,8",jaar,1991,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"642050886,8",jaar,1991,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"808472543,3",jaar,1991,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"194243393,8",jaar,1991,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1134710905,jaar,1991,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,514790349,jaar,1991,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"52338710,93",jaar,1991,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"317952485,3",jaar,1991,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"127578314,2",jaar,1991,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"14784715,85",jaar,1991,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"60059698,19",jaar,1992,netwerk,snelwegen,voertuigtype,motor
+aantal,"167837828,6",jaar,1992,netwerk,gewestwegen,voertuigtype,motor
+aantal,"91457940,98",jaar,1992,netwerk,gemeentewegen,voertuigtype,motor
+aantal,11358638388,jaar,1992,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,16299873385,jaar,1992,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9165822597,jaar,1992,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"815004891,9",jaar,1992,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,"996296356,5",jaar,1992,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"621465227,3",jaar,1992,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"97387061,24",jaar,1992,netwerk,snelwegen,voertuigtype,bus
+aantal,"152773695,6",jaar,1992,netwerk,gewestwegen,voertuigtype,bus
+aantal,"81422914,74",jaar,1992,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"781876,4952",jaar,1992,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"43602678,16",jaar,1992,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"161848559,8",jaar,1992,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"651795413,1",jaar,1992,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"778733896,1",jaar,1992,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"197043869,2",jaar,1992,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1167978692,jaar,1992,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"535231472,6",jaar,1992,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"54039551,22",jaar,1992,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"327548334,7",jaar,1992,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"132871614,3",jaar,1992,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"15125256,94",jaar,1992,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"70454023,09",jaar,1993,netwerk,snelwegen,voertuigtype,motor
+aantal,"206866719,8",jaar,1993,netwerk,gewestwegen,voertuigtype,motor
+aantal,"108747220,6",jaar,1993,netwerk,gemeentewegen,voertuigtype,motor
+aantal,11671265141,jaar,1993,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,16092508495,jaar,1993,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9103692936,jaar,1993,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"894012510,3",jaar,1993,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1065414821,jaar,1993,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"655071064,2",jaar,1993,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"102780338,4",jaar,1993,netwerk,snelwegen,voertuigtype,bus
+aantal,"151620065,9",jaar,1993,netwerk,gewestwegen,voertuigtype,bus
+aantal,"76824849,71",jaar,1993,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"538273,5211",jaar,1993,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"42071372,14",jaar,1993,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,141083630,jaar,1993,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"665126647,5",jaar,1993,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"730918960,4",jaar,1993,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"195757418,2",jaar,1993,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1208633383,jaar,1993,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"543589442,3",jaar,1993,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"54632384,36",jaar,1993,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"339231934,6",jaar,1993,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"135167086,5",jaar,1993,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"15153810,29",jaar,1993,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"83330103,07",jaar,1994,netwerk,snelwegen,voertuigtype,motor
+aantal,"255677606,6",jaar,1994,netwerk,gewestwegen,voertuigtype,motor
+aantal,"128434913,6",jaar,1994,netwerk,gemeentewegen,voertuigtype,motor
+aantal,12267025104,jaar,1994,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,16558166937,jaar,1994,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9223116506,jaar,1994,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,"999708529,9",jaar,1994,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1181337304,jaar,1994,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"702225885,7",jaar,1994,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"110906744,5",jaar,1994,netwerk,snelwegen,voertuigtype,bus
+aantal,"156829205,5",jaar,1994,netwerk,gewestwegen,voertuigtype,bus
+aantal,"73706995,79",jaar,1994,netwerk,gemeentewegen,voertuigtype,bus
+aantal,"284295,272",jaar,1994,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"42272763,63",jaar,1994,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"122880061,5",jaar,1994,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"694185877,6",jaar,1994,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"712631658,7",jaar,1994,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"198375551,3",jaar,1994,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1279360312,jaar,1994,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"575097987,6",jaar,1994,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"56327041,89",jaar,1994,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"359380812,2",jaar,1994,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"143224990,2",jaar,1994,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"15486254,33",jaar,1994,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"95687922,48",jaar,1995,netwerk,snelwegen,voertuigtype,motor
+aantal,"300015823,1",jaar,1995,netwerk,gewestwegen,voertuigtype,motor
+aantal,"146027786,2",jaar,1995,netwerk,gemeentewegen,voertuigtype,motor
+aantal,12661937112,jaar,1995,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,16615529783,jaar,1995,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9173715379,jaar,1995,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1094512538,jaar,1995,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1271770045,jaar,1995,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"737067639,5",jaar,1995,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"117479863,7",jaar,1995,netwerk,snelwegen,voertuigtype,bus
+aantal,"158206363,7",jaar,1995,netwerk,gewestwegen,voertuigtype,bus
+aantal,"69182107,17",jaar,1995,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,1995,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"41388321,47",jaar,1995,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,102145964,jaar,1995,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"711433149,7",jaar,1995,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"675085109,5",jaar,1995,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"197363219,2",jaar,1995,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1329963813,jaar,1995,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"593100587,6",jaar,1995,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"57004376,62",jaar,1995,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"373903834,1",jaar,1995,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,147928594,jaar,1995,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"15537104,49",jaar,1995,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"95147595,6",jaar,1996,netwerk,snelwegen,voertuigtype,motor
+aantal,"289495072,2",jaar,1996,netwerk,gewestwegen,voertuigtype,motor
+aantal,"156031013,6",jaar,1996,netwerk,gemeentewegen,voertuigtype,motor
+aantal,12865186926,jaar,1996,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,16756405699,jaar,1996,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9182254523,jaar,1996,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1154906521,jaar,1996,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1392746054,jaar,1996,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"763930949,6",jaar,1996,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"117066968,7",jaar,1996,netwerk,snelwegen,voertuigtype,bus
+aantal,"157343922,3",jaar,1996,netwerk,gewestwegen,voertuigtype,bus
+aantal,"65337149,64",jaar,1996,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,1996,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"41282051,06",jaar,1996,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"94418381,26",jaar,1996,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"743798234,1",jaar,1996,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,710039749,jaar,1996,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"196116047,3",jaar,1996,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1391353107,jaar,1996,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"584174960,4",jaar,1996,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"58810181,91",jaar,1996,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"383911630,5",jaar,1996,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,144767945,jaar,1996,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"16012485,71",jaar,1996,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"93071973,26",jaar,1997,netwerk,snelwegen,voertuigtype,motor
+aantal,"286545708,2",jaar,1997,netwerk,gewestwegen,voertuigtype,motor
+aantal,171483494,jaar,1997,netwerk,gemeentewegen,voertuigtype,motor
+aantal,12868872274,jaar,1997,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17378262053,jaar,1997,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9488684751,jaar,1997,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1198610118,jaar,1997,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1559927573,jaar,1997,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"816605187,3",jaar,1997,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"114772407,1",jaar,1997,netwerk,snelwegen,voertuigtype,bus
+aantal,"160873372,1",jaar,1997,netwerk,gewestwegen,voertuigtype,bus
+aantal,"63458421,74",jaar,1997,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,1997,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"42334913,4",jaar,1997,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"89446886,54",jaar,1997,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"765224425,5",jaar,1997,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"767027593,1",jaar,1997,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"201175118,7",jaar,1997,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1432304654,jaar,1997,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"591229002,6",jaar,1997,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"62592704,22",jaar,1997,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"388078739,6",jaar,1997,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"145513241,1",jaar,1997,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"17025435,58",jaar,1997,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"96092950,22",jaar,1998,netwerk,snelwegen,voertuigtype,motor
+aantal,"277506088,2",jaar,1998,netwerk,gewestwegen,voertuigtype,motor
+aantal,"183386171,2",jaar,1998,netwerk,gemeentewegen,voertuigtype,motor
+aantal,13597669768,jaar,1998,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17684100102,jaar,1998,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9572626001,jaar,1998,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1312896265,jaar,1998,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1706160601,jaar,1998,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"851381635,8",jaar,1998,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"118781368,3",jaar,1998,netwerk,snelwegen,voertuigtype,bus
+aantal,"161329027,4",jaar,1998,netwerk,gewestwegen,voertuigtype,bus
+aantal,"59905081,36",jaar,1998,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,1998,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"42587150,42",jaar,1998,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"82004566,87",jaar,1998,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"831257588,7",jaar,1998,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"812035128,4",jaar,1998,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,201448755,jaar,1998,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1556808560,jaar,1998,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"586592314,4",jaar,1998,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"64991248,2",jaar,1998,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"414397485,3",jaar,1998,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"143315210,8",jaar,1998,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"17661182,5",jaar,1998,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"98002285,32",jaar,1999,netwerk,snelwegen,voertuigtype,motor
+aantal,"270572087,8",jaar,1999,netwerk,gewestwegen,voertuigtype,motor
+aantal,"200711770,6",jaar,1999,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14204651591,jaar,1999,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,18174405548,jaar,1999,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,9912913787,jaar,1999,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1420593317,jaar,1999,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1876846907,jaar,1999,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"910315640,3",jaar,1999,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"121448572,5",jaar,1999,netwerk,snelwegen,voertuigtype,bus
+aantal,"163334433,3",jaar,1999,netwerk,gewestwegen,voertuigtype,bus
+aantal,"57753095,34",jaar,1999,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,1999,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"43256010,17",jaar,1999,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,76352350,jaar,1999,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,892373722,jaar,1999,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"867278811,5",jaar,1999,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"207042765,8",jaar,1999,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1672201983,jaar,1999,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"587231657,2",jaar,1999,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"69221148,44",jaar,1999,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"437487670,7",jaar,1999,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"142345471,7",jaar,1999,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"18793796,88",jaar,1999,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"97226370,34",jaar,2000,netwerk,snelwegen,voertuigtype,motor
+aantal,246227613,jaar,2000,netwerk,gewestwegen,voertuigtype,motor
+aantal,"218620062,8",jaar,2000,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14447539579,jaar,2000,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17495225301,jaar,2000,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10243214992,jaar,2000,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1495451140,jaar,2000,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,1926759571,jaar,2000,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,"970414836,4",jaar,2000,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"120810995,7",jaar,2000,netwerk,snelwegen,voertuigtype,bus
+aantal,"154829651,6",jaar,2000,netwerk,gewestwegen,voertuigtype,bus
+aantal,"55231956,77",jaar,2000,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2000,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"41141444,4",jaar,2000,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"70000958,25",jaar,2000,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"932364247,7",jaar,2000,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"866714247,6",jaar,2000,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"212314375,3",jaar,2000,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1748074621,jaar,2000,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"550084151,6",jaar,2000,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"73520735,45",jaar,2000,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"449698429,1",jaar,2000,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"132216189,7",jaar,2000,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"19944141,68",jaar,2000,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"101710773,4",jaar,2001,netwerk,snelwegen,voertuigtype,motor
+aantal,"254775695,4",jaar,2001,netwerk,gewestwegen,voertuigtype,motor
+aantal,"221974142,8",jaar,2001,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14426406930,jaar,2001,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17533571389,jaar,2001,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10366794323,jaar,2001,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1547085829,jaar,2001,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2022495841,jaar,2001,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1030807773,jaar,2001,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"120838310,1",jaar,2001,netwerk,snelwegen,voertuigtype,bus
+aantal,"164096205,2",jaar,2001,netwerk,gewestwegen,voertuigtype,bus
+aantal,"55722327,9",jaar,2001,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2001,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"40117302,78",jaar,2001,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"87863354,32",jaar,2001,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"887429804,6",jaar,2001,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"830187341,6",jaar,2001,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"223121070,4",jaar,2001,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1824193671,jaar,2001,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,578251764,jaar,2001,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"94898653,06",jaar,2001,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"451234385,5",jaar,2001,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"132778344,8",jaar,2001,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"20341871,36",jaar,2001,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"107626091,1",jaar,2002,netwerk,snelwegen,voertuigtype,motor
+aantal,"264366487,8",jaar,2002,netwerk,gewestwegen,voertuigtype,motor
+aantal,222988528,jaar,2002,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14594882372,jaar,2002,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17634315429,jaar,2002,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10380126354,jaar,2002,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1620148939,jaar,2002,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2126984051,jaar,2002,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1081660113,jaar,2002,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"122457968,2",jaar,2002,netwerk,snelwegen,voertuigtype,bus
+aantal,"174098367,1",jaar,2002,netwerk,gewestwegen,voertuigtype,bus
+aantal,"55614972,44",jaar,2002,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2002,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"39217002,88",jaar,2002,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"105288302,5",jaar,2002,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"853272626,4",jaar,2002,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,795962210,jaar,2002,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"231795723,2",jaar,2002,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,1925888797,jaar,2002,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"608935187,3",jaar,2002,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"115865723,6",jaar,2002,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"458745598,7",jaar,2002,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"133817653,6",jaar,2002,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"20527860,18",jaar,2002,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"112501848,2",jaar,2003,netwerk,snelwegen,voertuigtype,motor
+aantal,"270199717,2",jaar,2003,netwerk,gewestwegen,voertuigtype,motor
+aantal,"221356427,3",jaar,2003,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14607954545,jaar,2003,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17481167174,jaar,2003,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10270040025,jaar,2003,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1677199036,jaar,2003,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2201405092,jaar,2003,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1119979077,jaar,2003,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"122778412,2",jaar,2003,netwerk,snelwegen,voertuigtype,bus
+aantal,"181648198,6",jaar,2003,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54845178,66",jaar,2003,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2003,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"37745296,72",jaar,2003,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"121575836,6",jaar,2003,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"809027783,8",jaar,2003,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"750043497,2",jaar,2003,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"237769806,4",jaar,2003,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2008887134,jaar,2003,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,631015304,jaar,2003,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"135592973,1",jaar,2003,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"461422643,7",jaar,2003,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"132931961,6",jaar,2003,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"20470832,03",jaar,2003,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"119489690,7",jaar,2004,netwerk,snelwegen,voertuigtype,motor
+aantal,"278509718,9",jaar,2004,netwerk,gewestwegen,voertuigtype,motor
+aantal,"222492622,3",jaar,2004,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14876900678,jaar,2004,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17487886165,jaar,2004,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10288142994,jaar,2004,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1765273102,jaar,2004,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2296024115,jaar,2004,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1172641231,jaar,2004,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"125255691,3",jaar,2004,netwerk,snelwegen,voertuigtype,bus
+aantal,"190865650,2",jaar,2004,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54758640,41",jaar,2004,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2004,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"36617973,34",jaar,2004,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"139508015,4",jaar,2004,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"777621414,3",jaar,2004,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"710956352,5",jaar,2004,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"246773306,4",jaar,2004,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2129479415,jaar,2004,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"658885537,4",jaar,2004,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"157165776,9",jaar,2004,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"472249090,9",jaar,2004,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"133262143,4",jaar,2004,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"20670492,02",jaar,2004,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"125003026,8",jaar,2005,netwerk,snelwegen,voertuigtype,motor
+aantal,"284789372,2",jaar,2005,netwerk,gewestwegen,voertuigtype,motor
+aantal,222036479,jaar,2005,netwerk,gemeentewegen,voertuigtype,motor
+aantal,14942260340,jaar,2005,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17365847206,jaar,2005,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10232181076,jaar,2005,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1831059067,jaar,2005,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2373969423,jaar,2005,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1217500027,jaar,2005,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"126025964,9",jaar,2005,netwerk,snelwegen,voertuigtype,bus
+aantal,"198700371,1",jaar,2005,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54275583,77",jaar,2005,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2005,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"35218227,71",jaar,2005,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"156659071,3",jaar,2005,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"734060327,8",jaar,2005,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"666537568,8",jaar,2005,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"254108414,9",jaar,2005,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2223662682,jaar,2005,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,681972718,jaar,2005,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"177875890,4",jaar,2005,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"476689120,3",jaar,2005,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"132611845,1",jaar,2005,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"20723404,71",jaar,2005,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"134507185,3",jaar,2006,netwerk,snelwegen,voertuigtype,motor
+aantal,"292265175,8",jaar,2006,netwerk,gewestwegen,voertuigtype,motor
+aantal,"222491513,1",jaar,2006,netwerk,gemeentewegen,voertuigtype,motor
+aantal,15455281536,jaar,2006,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17317095537,jaar,2006,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10217875247,jaar,2006,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,1954561978,jaar,2006,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2461868022,jaar,2006,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1267807818,jaar,2006,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"130582743,5",jaar,2006,netwerk,snelwegen,voertuigtype,bus
+aantal,207367274,jaar,2006,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54011707,71",jaar,2006,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2006,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"33967905,38",jaar,2006,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"174620034,1",jaar,2006,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"731450622,6",jaar,2006,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"624959135,8",jaar,2006,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"262561420,4",jaar,2006,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2367366846,jaar,2006,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"707918710,6",jaar,2006,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,199517416,jaar,2006,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,495527031,jaar,2006,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"132521000,3",jaar,2006,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"20862273,35",jaar,2006,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"144130717,8",jaar,2007,netwerk,snelwegen,voertuigtype,motor
+aantal,"302483453,9",jaar,2007,netwerk,gewestwegen,voertuigtype,motor
+aantal,"224077555,3",jaar,2007,netwerk,gemeentewegen,voertuigtype,motor
+aantal,15936450376,jaar,2007,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17424631915,jaar,2007,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10254845713,jaar,2007,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2078667191,jaar,2007,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2573182268,jaar,2007,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1325461721,jaar,2007,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"135576753,3",jaar,2007,netwerk,snelwegen,voertuigtype,bus
+aantal,"218022460,6",jaar,2007,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54015321,97",jaar,2007,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2007,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"33009569,21",jaar,2007,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"193801204,9",jaar,2007,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"725280517,7",jaar,2007,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"588518336,1",jaar,2007,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"272498663,6",jaar,2007,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2511344416,jaar,2007,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"740606417,4",jaar,2007,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"222574278,8",jaar,2007,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,513550567,jaar,2007,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"133629730,1",jaar,2007,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"21109010,1",jaar,2007,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"143660459,5",jaar,2008,netwerk,snelwegen,voertuigtype,motor
+aantal,"294608672,6",jaar,2008,netwerk,gewestwegen,voertuigtype,motor
+aantal,"221852600,1",jaar,2008,netwerk,gemeentewegen,voertuigtype,motor
+aantal,16090096356,jaar,2008,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17190712019,jaar,2008,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10284463574,jaar,2008,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2037213069,jaar,2008,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2464252720,jaar,2008,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1290339956,jaar,2008,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,137107177,jaar,2008,netwerk,snelwegen,voertuigtype,bus
+aantal,"215446477,8",jaar,2008,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54259700,48",jaar,2008,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2008,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"32150206,04",jaar,2008,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"191876875,6",jaar,2008,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"692342205,5",jaar,2008,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"548956581,4",jaar,2008,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"258383416,1",jaar,2008,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2294887226,jaar,2008,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"661310995,8",jaar,2008,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,202029835,jaar,2008,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"469286740,7",jaar,2008,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"119322230,8",jaar,2008,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,19160569,jaar,2008,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"143328586,6",jaar,2009,netwerk,snelwegen,voertuigtype,motor
+aantal,"294755743,5",jaar,2009,netwerk,gewestwegen,voertuigtype,motor
+aantal,"221193733,6",jaar,2009,netwerk,gemeentewegen,voertuigtype,motor
+aantal,16371887166,jaar,2009,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17541032175,jaar,2009,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10457658887,jaar,2009,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2014569664,jaar,2009,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2443724613,jaar,2009,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1275154216,jaar,2009,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"133770081,4",jaar,2009,netwerk,snelwegen,voertuigtype,bus
+aantal,"210794552,3",jaar,2009,netwerk,gewestwegen,voertuigtype,bus
+aantal,"52904050,44",jaar,2009,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2009,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"32166255,67",jaar,2009,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"191307032,1",jaar,2009,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"666112264,2",jaar,2009,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,529646127,jaar,2009,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"248429970,4",jaar,2009,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2118271671,jaar,2009,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"612135033,7",jaar,2009,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"186358217,7",jaar,2009,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"433170221,8",jaar,2009,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"110449271,6",jaar,2009,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"17674268,2",jaar,2009,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"142082883,5",jaar,2010,netwerk,snelwegen,voertuigtype,motor
+aantal,"294411068,7",jaar,2010,netwerk,gewestwegen,voertuigtype,motor
+aantal,"221449103,1",jaar,2010,netwerk,gemeentewegen,voertuigtype,motor
+aantal,16339566591,jaar,2010,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17639239137,jaar,2010,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10540675015,jaar,2010,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2047005218,jaar,2010,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2501910881,jaar,2010,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1308553650,jaar,2010,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"132874082,7",jaar,2010,netwerk,snelwegen,voertuigtype,bus
+aantal,"210971399,6",jaar,2010,netwerk,gewestwegen,voertuigtype,bus
+aantal,"53071623,58",jaar,2010,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2010,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"32128641,82",jaar,2010,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"191527897,3",jaar,2010,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"699277742,3",jaar,2010,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"560235969,9",jaar,2010,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"263389480,1",jaar,2010,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2168482113,jaar,2010,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,631399647,jaar,2010,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"192670354,4",jaar,2010,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"443437869,9",jaar,2010,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"113925240,8",jaar,2010,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"18272913,11",jaar,2010,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"141360797,1",jaar,2011,netwerk,snelwegen,voertuigtype,motor
+aantal,"289966230,6",jaar,2011,netwerk,gewestwegen,voertuigtype,motor
+aantal,"236094253,7",jaar,2011,netwerk,gemeentewegen,voertuigtype,motor
+aantal,16481049859,jaar,2011,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,17753489051,jaar,2011,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10926306244,jaar,2011,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2124309383,jaar,2011,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2492343085,jaar,2011,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1411060791,jaar,2011,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"132048220,2",jaar,2011,netwerk,snelwegen,voertuigtype,bus
+aantal,"207549610,6",jaar,2011,netwerk,gewestwegen,voertuigtype,bus
+aantal,"56516975,77",jaar,2011,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2011,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"31643583,26",jaar,2011,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"204194261,1",jaar,2011,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,701121802,jaar,2011,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"536485183,8",jaar,2011,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"273025600,1",jaar,2011,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2187258861,jaar,2011,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"607161757,1",jaar,2011,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"200554851,7",jaar,2011,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"447277570,2",jaar,2011,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"109551929,1",jaar,2011,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"19020681,15",jaar,2011,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"139469616,9",jaar,2012,netwerk,snelwegen,voertuigtype,motor
+aantal,"300887099,5",jaar,2012,netwerk,gewestwegen,voertuigtype,motor
+aantal,"241313830,4",jaar,2012,netwerk,gemeentewegen,voertuigtype,motor
+aantal,16425338728,jaar,2012,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,18407701868,jaar,2012,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,10929612602,jaar,2012,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2178219821,jaar,2012,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2635468380,jaar,2012,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1469725945,jaar,2012,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"128972892,8",jaar,2012,netwerk,snelwegen,voertuigtype,bus
+aantal,"213203011,1",jaar,2012,netwerk,gewestwegen,voertuigtype,bus
+aantal,"57186165,59",jaar,2012,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2012,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"32835361,43",jaar,2012,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"208708592,1",jaar,2012,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"694580137,4",jaar,2012,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"544814278,1",jaar,2012,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"273108219,1",jaar,2012,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2179865239,jaar,2012,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"600054018,6",jaar,2012,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"195235938,2",jaar,2012,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"445765631,4",jaar,2012,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"108269459,6",jaar,2012,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"18516233,83",jaar,2012,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"145234564,1",jaar,2013,netwerk,snelwegen,voertuigtype,motor
+aantal,303589868,jaar,2013,netwerk,gewestwegen,voertuigtype,motor
+aantal,"173803634,9",jaar,2013,netwerk,gemeentewegen,voertuigtype,motor
+aantal,17255064645,jaar,2013,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,18736788571,jaar,2013,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,7941330838,jaar,2013,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2269738058,jaar,2013,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2660879284,jaar,2013,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1059245577,jaar,2013,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"99510029,19",jaar,2013,netwerk,snelwegen,voertuigtype,bus
+aantal,"213059328,8",jaar,2013,netwerk,gewestwegen,voertuigtype,bus
+aantal,"54695913,03",jaar,2013,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2013,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,48040711,jaar,2013,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,139297283,jaar,2013,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"674924206,8",jaar,2013,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"801340099,9",jaar,2013,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"162816096,7",jaar,2013,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2110903292,jaar,2013,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"879558621,4",jaar,2013,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"115992091,2",jaar,2013,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"431663445,1",jaar,2013,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"158701272,9",jaar,2013,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"11000724,07",jaar,2013,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"148707544,5",jaar,2014,netwerk,snelwegen,voertuigtype,motor
+aantal,"307330020,5",jaar,2014,netwerk,gewestwegen,voertuigtype,motor
+aantal,"175551707,8",jaar,2014,netwerk,gemeentewegen,voertuigtype,motor
+aantal,17650015691,jaar,2014,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,18948653581,jaar,2014,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,8013181529,jaar,2014,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2382114442,jaar,2014,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2761002179,jaar,2014,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1096646681,jaar,2014,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"102867097,6",jaar,2014,netwerk,snelwegen,voertuigtype,bus
+aantal,"214781952,4",jaar,2014,netwerk,gewestwegen,voertuigtype,bus
+aantal,"55290017,96",jaar,2014,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2014,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"49852795,13",jaar,2014,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"143819959,8",jaar,2014,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,689346993,jaar,2014,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"815775889,7",jaar,2014,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"164940944,9",jaar,2014,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2189046114,jaar,2014,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"909122637,9",jaar,2014,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"119306254,1",jaar,2014,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"447643049,6",jaar,2014,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"164035592,8",jaar,2014,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"11315040,25",jaar,2014,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,149511879,jaar,2015,netwerk,snelwegen,voertuigtype,motor
+aantal,"306877833,5",jaar,2015,netwerk,gewestwegen,voertuigtype,motor
+aantal,"175004277,8",jaar,2015,netwerk,gemeentewegen,voertuigtype,motor
+aantal,18019088841,jaar,2015,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,19212501925,jaar,2015,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,8111358949,jaar,2015,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2463270791,jaar,2015,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2835529185,jaar,2015,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1124390512,jaar,2015,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,"105505034,9",jaar,2015,netwerk,snelwegen,voertuigtype,bus
+aantal,"218657765,5",jaar,2015,netwerk,gewestwegen,voertuigtype,bus
+aantal,"56037199,62",jaar,2015,netwerk,gemeentewegen,voertuigtype,bus
+aantal,0,jaar,2015,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,"50685382,81",jaar,2015,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,"145980054,8",jaar,2015,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,"694349144,1",jaar,2015,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"814776770,8",jaar,2015,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,"164094140,7",jaar,2015,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2255705864,jaar,2015,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,"928918868,6",jaar,2015,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,"121427022,4",jaar,2015,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,"461274454,3",jaar,2015,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"167607483,3",jaar,2015,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,"11516174,53",jaar,2015,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,0,jaar,2016,netwerk,snelwegen,voertuigtype,speciaal voertuig
+aantal,194900000,jaar,2016,netwerk,gewestwegen,voertuigtype,bus
+aantal,156500000,jaar,2016,netwerk,gemeentewegen,voertuigtype,speciaal voertuig
+aantal,693900000,jaar,2016,netwerk,snelwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,849500000,jaar,2016,netwerk,gewestwegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,175100000,jaar,2016,netwerk,gemeentewegen,voertuigtype,vrachtwagen uit 1 stuk
+aantal,2271200000,jaar,2016,netwerk,snelwegen,voertuigtype,trekker met oplegger
+aantal,975800000,jaar,2016,netwerk,gewestwegen,voertuigtype,trekker met oplegger
+aantal,130600000,jaar,2016,netwerk,gemeentewegen,voertuigtype,trekker met oplegger
+aantal,464500000,jaar,2016,netwerk,snelwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,176100000,jaar,2016,netwerk,gewestwegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,12400000,jaar,2016,netwerk,gemeentewegen,voertuigtype,vrachtwagen met aanhangwagen
+aantal,148900000,jaar,2016,netwerk,snelwegen,voertuigtype,motor
+aantal,303100000,jaar,2016,netwerk,gewestwegen,voertuigtype,motor
+aantal,174100000,jaar,2016,netwerk,gemeentewegen,voertuigtype,motor
+aantal,18306200000,jaar,2016,netwerk,snelwegen,voertuigtype,personenwagen
+aantal,19352400000,jaar,2016,netwerk,gewestwegen,voertuigtype,personenwagen
+aantal,8232600000,jaar,2016,netwerk,gemeentewegen,voertuigtype,personenwagen
+aantal,2517300000,jaar,2016,netwerk,snelwegen,voertuigtype,bestelwagen
+aantal,2934600000,jaar,2016,netwerk,gewestwegen,voertuigtype,bestelwagen
+aantal,1172500000,jaar,2016,netwerk,gemeentewegen,voertuigtype,bestelwagen
+aantal,106100000,jaar,2016,netwerk,snelwegen,voertuigtype,bus
+aantal,50400000,jaar,2016,netwerk,gemeentewegen,voertuigtype,bus
+aantal,53500000,jaar,2016,netwerk,gewestwegen,voertuigtype,speciaal voertuig
+aantal,24800000000,jaar,2017,netwerk,snelwegen,voertuigtype,alle (uitgenomen motoren)
+aantal,25100000000,jaar,2017,netwerk,gewestwegen,voertuigtype,alle (uitgenomen motoren)
+aantal,10100000000,jaar,2017,netwerk,gemeentewegen,voertuigtype,alle (uitgenomen motoren)
+aantal,25038500000,jaar,2018,netwerk,snelwegen,voertuigtype,alle
+aantal,25330900000,jaar,2018,netwerk,gewestwegen,voertuigtype,alle
+aantal,10300500000,jaar,2018,netwerk,gemeentewegen,voertuigtype,alle
+aantal,25159208630,jaar,2019,netwerk,snelwegen,voertuigtype,alle (uitgenomen motoren)
+aantal,25613569334,jaar,2019,netwerk,gewestwegen,voertuigtype,alle (uitgenomen motoren)
+aantal,10412561791,jaar,2019,netwerk,gemeentewegen,voertuigtype,alle (uitgenomen motoren)
