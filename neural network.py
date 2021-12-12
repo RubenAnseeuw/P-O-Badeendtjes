@@ -24,15 +24,15 @@ def KNN(xx, yy):
 def pop():
     xPop = np.linspace(0, 1, 100)
     yPop = [f(xje) for xje in xPop]
-    plt.plot(xPop, yPop, label="Populatiefunctie")
+    plt.plot(xPop, yPop, label = "Populatiefunctie")
 
-def NN():
-    xx = xsample(2000, 0, 1)
-    random.shuffle(xx)
-    y = [f(xsje) for xsje in xx]
+def NN(xx, yy):
+    #xx = xsample(2000, 0, 1)
+    #random.shuffle(xx)
+    #y = [f(xsje) for xsje in xx]
     X2 = [[1, xsje] for xsje in xx]
 
-    regr = MLPRegressor(activation = "tanh", hidden_layer_sizes = 20, random_state = 3, max_iter = 1000).fit(X2, y)
+    regr = MLPRegressor(activation = "tanh", hidden_layer_sizes = 20, random_state = 3, max_iter = 1000).fit(X2, yy)
 
     xxx = np.linspace(0, 1, 100)
     XXX2 = [[1, xsje] for xsje in xxx]
@@ -43,12 +43,12 @@ def NN():
 
 def main():
     plt.figure()
-    xx = xsample(50)
+    xx = xsample(2000)
     yy = ysample(xx, f)
     LR(xx, yy)
     KNN(xx, yy)
     pop()
-    NN()
+    NN(xx, yy)
     plt.legend()
     plt.show()
 
