@@ -43,7 +43,7 @@ def NN():
 
 def main():
     plt.figure()
-    xx = xsample(20)
+    xx = xsample(50)
     yy = ysample(xx, f)
     LR(xx, yy)
     KNN(xx, yy)
